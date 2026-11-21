@@ -1,12 +1,12 @@
 # DailyMate — Your Smart Everyday Assistant
 
-[Nama] : Muhammad Romi Maulana
-[NIM] : 41257216
-[Prodi] : Teknik Informatika
-[Kelas] : IF - 2025
-[Link Dokumen] : https://drive.google.com/file/d/1iJFw1G-QFdubYEnt2mkNbpWztryzlgCU/view?usp=sharing
-[Link Video Pembahasan PRD dan Diagram UML (Part 1)] : https://youtu.be/UArFtXrg3-A
-[Link Video Live Demo (Part 2)] : https://youtu.be/U8yRivryxOc
+- **Nama** : Muhammad Romi Maulana
+- **NIM** : 41257216
+- **Prodi** : Teknik Informatika
+- **Kelas** : IF - 2025
+- **Link Dokumen** : https://drive.google.com/file/d/1iJFw1G-QFdubYEnt2mkNbpWztryzlgCU/view?usp=sharing
+- **Link Video Pembahasan PRD dan Diagram UML (Part 1)** : https://youtu.be/UArFtXrg3-A
+- **Link Video Live Demo (Part 2)** : https://youtu.be/U8yRivryxOc
 
 DailyMate adalah aplikasi web manajemen produktivitas harian berbasis **Laravel 12** dengan **Blade**, **Bootstrap 5**, **MySQL**, **Chart.js**, integrasi **Qwen AI (Friday)**, dan pengiriman WhatsApp melalui **Fonnte**. Aplikasi memiliki dua peran terpisah - **User** dan **Admin** - dengan dashboard, hak akses, dan data yang terisolasi.
 
